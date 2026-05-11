@@ -16,12 +16,12 @@ tags:
     - campus
 ---
 
-# A Seedling Essay-Minnie
-This essay demonstrates the **simplest ScrollStory approach**—perfect if you're just learning Markdown or want students to focus on writing rather than complex formatting. As you scroll through, notice the clean, uncluttered design that lets content breathe.
+# How Seth Got His Start
+Seth Matlick grew up in a small apartment in New York City in a food-centered family. Food was a big part of his life early on, especially through his grandma and mom, who were always cooking and feeding people. Meals were really about community; neighbors would come over, people would drop in at all hours, and there was always room at the table. That idea of food as something emotional and shared has clearly stuck with him.
 
-**What makes this a "Seedling" essay?** It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
+Even though he was surrounded by food, he didn’t learn to cook until later in life. Once he moved out, he started teaching himself and working in restaurants, beginning as a dishwasher and eventually doing prep work. That’s where his interest in food deepened, even before farming was part of the picture.
 
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+What changed everything was when he started traveling after college and found WWOOFing (working on organic farms). He reached out to Los Poblanos Organics in New Mexico, and they replied back the next day and that is where he was introduced to growing food. He describes that first season as eye-opening, like discovering something he didn’t even know he was missing.
 
 
 ## Your First Section Heading
