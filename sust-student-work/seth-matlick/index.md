@@ -66,7 +66,7 @@ A major part of Seth’s farm is built on relationships rather than large-scale 
 
 He doesn’t rely on traditional marketing or branding. Instead, he has built trust over time by consistently showing up and maintaining personal connections with the people he works with. He even describes himself as the “face” of the farm, meaning that customers often meet him directly and can ask questions about how their food was grown. 
 {% include typography/aside.html class="right" text="
-Farming provides something tangible; putting a face to who grows your food is comforting." %}
+"Farming provides something tangible; putting a face to who grows your food is comforting."" %}
 
 Selling to both markets and restaurants helps engage with customers and the food system as a whole. Seth is passionate about integrating into the whole food system, and as a cook, he understands how each ingredient is used, helping him connect to customers and the chefs he sells to. One valuable collaboration is his production of Napa cabbage for Oni (a restaurant in downtown ABQ) to make kimchi. Using his knowledge of cabbage growing conditions, he worked with this business to make kimchi from a new cabbage variety that is more suitable to the NM climate. 
 {% include images/figure.html class="left" width="60%" caption="Nappa kimchi made in house at Oni from Vida Verde Farm’s Nappa cabbage. [Source](@oni.abq)" image-path="images/napa-kimchi.jpg" %}
@@ -79,14 +79,16 @@ If you need more structure within a section, use subsection headings (marked wit
 Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus.
 
 
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
+## The Future Of Vida Verde 
 
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
 
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
+The future of Vida Verde farms has some uncertainties, but is currently standing strong. Seth expresses a wish to someday own his own land, providing the opportunity to plant orchards or have more animals. He feels content, yet is aware that this life depends on his physical health and level of motivation, as well as financial concerns, which can become worse with climate change causing crop failure. There are always environmental worries, yet small farmers are as vital as ever. 
 
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+Ultimately, he loves the farm, the community, and the opportunity of working outside - and especially, connecting with other farmers in the area and creating lasting bonds.
+
+{% include media/audio.html
+  src="audio/last-quote.mp3"
+%}
 
 
 ## The Rhythm of a ScrollStory
