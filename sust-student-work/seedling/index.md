@@ -3,7 +3,7 @@ title: Seth Matlick and Vida Verde Farms
 author: Erin Elder, Sarah Miller, Minnie Metcalfe
 layout: scrollstory
 date: 2026-05-10
-thumbnail: images/seedling-card.png
+thumbnail: images/seth-header.jpg
 summary: The story of how Seth started on his farming journey and how Vida Verde Farms came to be.
 header-image: images/seth-header.jpg
 header-title:
