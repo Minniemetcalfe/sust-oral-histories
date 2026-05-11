@@ -47,12 +47,16 @@ Much of the process involves learning from the land; as the seasons change and g
 
 
 
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
+## The Real Cost of Small Farming
+Seth is very honest about the realities of small-scale farming, especially when it comes to money and labor. He makes it clear that farming isn’t a quick or easy way to make a profit. There’s a huge amount of time and effort that goes into growing food; months of planting, watering, maintaining, harvesting, and transporting before the food ever reaches a customer.
+{% include media/audio.html
+  src="audio/cost-of-small-farming.mp3"
+%}
+He describes how people sometimes question the price of food at farmers’ markets, not realizing how much work goes into growing. What looks like a simple product actually represents hundreds of hours of labor and a significant amount of risk, especially with unpredictable weather like hailstorms that can wipe out entire crops in minutes.
 
-**Why this matters for students:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+At the same time, Seth understands that not everyone can afford local food, and he doesn’t judge people for choosing cheaper options. Instead, he tries to create a middle ground; offering food that is local, healthy, and produced with care, while helping people understand its value. This balance reflects the challenges of maintaining both a livelihood and a community-centered food system.
+
 
 
 ## Pull Quotes Add Emphasis
