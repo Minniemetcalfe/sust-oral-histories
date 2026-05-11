@@ -86,9 +86,7 @@ The future of Vida Verde farms has some uncertainties, but is currently standing
 
 Ultimately, he loves the farm, the community, and the opportunity of working outside - and especially, connecting with other farmers in the area and creating lasting bonds.
 
-{% include media/audio.html
-  src="audio/last-quote.mp3"
-%}
+
 
 
 ## The Rhythm of a ScrollStory
