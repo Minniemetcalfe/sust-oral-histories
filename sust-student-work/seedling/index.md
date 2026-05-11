@@ -36,15 +36,15 @@ image-path="images/hoop-house.jpg"
 %}
 
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+Seth Matlick’s story of his farming journey at Vida Verde is one of innovation, connection and resiliency. Through his experience at Los Poblanos farm, he fell in love with New Mexico and “the Southwest pace of life.” Instead of continuing his travels, he accepted an opportunity to farm on an acre of land in the North Valley, left by the farmer he had worked for. 
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^1]
+Thus began Vida Verde Farm, with a flock of chickens, some hand-me-down tools, and a lot of determination.
 
-[^1]: Footnotes work normally in ScrollStories. Click the number to jump to the note, then click the return arrow to come back. This keeps your main text flowing while providing space for citations and elaboration.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+Sales began on a small scale at local farmers markets, and has grown over the years through relationships with chefs and CSA partners.
+Much of the process involves learning from the land; as the seasons change and get warmer year by year, some crops become less ideal for the conditions, and practices must change. A vital lesson learned is that “a lot of farming can’t be found in a book; you have to be in your field to figure it out.” Because every field and environment is so different, Seth has had to do a lot of trial and error to get to where he is. Since starting, he has focused on quality rather than quantity, growing 8 pepper varieties instead of 60 as he did in the beginning years, with the realization that sometimes less is more.
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla.
+
 
 
 ## Section Headings Create Visual Breaks
