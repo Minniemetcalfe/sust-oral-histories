@@ -27,13 +27,14 @@ What changed everything was when he started traveling after college and found WW
 %}
 
 
-## Your First Section Heading
+## The Beginning of Vida Verde Farms
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
-image-path="images/RMPE_outline_LL.png"
+caption="A hoop house at Vida Verde Farm. [Source](@vidaverdefarmabq)"
+image-path="images/hoop-house.jpg"
 %}
+
 
 This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
 
