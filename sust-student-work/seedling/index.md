@@ -5,7 +5,7 @@ layout: scrollstory
 date: 2026-05-10
 thumbnail: images/seedling-card.png
 summary: The story of how Seth started on his farming journey and how Vida Verde Farms came to be.
-header-image: images/seedling-card.png
+header-image: images/seth-header.jpg
 header-title:
 header-position: 0px
 toc-section: first
