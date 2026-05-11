@@ -1,10 +1,10 @@
 ---
-title: Seedling
-author: Fred Gibbs
+title: Seth Matlick and Vida Verde Farms
+author: Erin Elder, Sarah Miller, Minnie Metcalfe
 layout: scrollstory
-date: 2025-07-21
+date: 2026-05-10
 thumbnail: images/seedling-card.png
-summary: Perfect for beginners getting comfortable with Markdown and digital essays. Basically section headings, a few images, and some pull quotes. Nothing fancy, but enough to make a visually compelling essay.
+summary: The story of how Seth started on his farming journey and how Vida Verde Farms came to be.
 header-image: images/seedling-card.png
 header-title:
 header-position: 0px
