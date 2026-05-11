@@ -71,12 +71,7 @@ Farming provides something tangible; putting a face to who grows your food is co
 Selling to both markets and restaurants helps engage with customers and the food system as a whole. Seth is passionate about integrating into the whole food system, and as a cook, he understands how each ingredient is used, helping him connect to customers and the chefs he sells to. One valuable collaboration is his production of Napa cabbage for Oni (a restaurant in downtown ABQ) to make kimchi. Using his knowledge of cabbage growing conditions, he worked with this business to make kimchi from a new cabbage variety that is more suitable to the NM climate. 
 {% include images/figure.html class="left" width="60%" caption="Nappa kimchi made in house at Oni from Vida Verde Farm’s Nappa cabbage. [Source](@oni.abq)" image-path="images/napa-kimchi.jpg" %}
 
-### Subsection Headings (Optional)
-If you need more structure within a section, use subsection headings (marked with `###`). These are slightly smaller than main section headings and help organize complex topics without breaking up the flow too much.
 
-**Most student essays won't need subsections**—stick with main sections (`##`) unless you're writing something particularly detailed. Simpler is usually better.
-
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus.
 
 
 ## The Future Of Vida Verde 
@@ -86,6 +81,9 @@ The future of Vida Verde farms has some uncertainties, but is currently standing
 
 Ultimately, he loves the farm, the community, and the opportunity of working outside - and especially, connecting with other farmers in the area and creating lasting bonds.
 
+{% include media/audio.html
+  src="audio/last-quote.mp3"
+%}
 
 
 
