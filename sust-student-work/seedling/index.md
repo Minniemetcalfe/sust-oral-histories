@@ -59,16 +59,17 @@ At the same time, Seth understands that not everyone can afford local food, and 
 
 
 
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+## Community and Relationships in Local Food Systems
+{% include images/figure.html class="right" width="60%" caption="Nappa cabbage grown at Vida Verde Farm. [Source](@vidaverdefarmabq)" image-path="images/napa-cabbage.jpg" %}
 
+A major part of Seth’s farm is built on relationships rather than large-scale distribution. He works directly with chefs, customers, and other farmers, creating a network that supports both his farm and the broader local food system.
+
+He doesn’t rely on traditional marketing or branding. Instead, he has built trust over time by consistently showing up and maintaining personal connections with the people he works with. He even describes himself as the “face” of the farm, meaning that customers often meet him directly and can ask questions about how their food was grown. 
 {% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
+Farming provides something tangible; putting a face to who grows your food is comforting." %}
 
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
-
+Selling to both markets and restaurants helps engage with customers and the food system as a whole. Seth is passionate about integrating into the whole food system, and as a cook, he understands how each ingredient is used, helping him connect to customers and the chefs he sells to. One valuable collaboration is his production of Napa cabbage for Oni (a restaurant in downtown ABQ) to make kimchi. Using his knowledge of cabbage growing conditions, he worked with this business to make kimchi from a new cabbage variety that is more suitable to the NM climate. 
+{% include images/figure.html class="left" width="60%" caption="Nappa kimchi made in house at Oni from Vida Verde Farm’s Nappa cabbage. [Source](@oni.abq)" image-path="images/napa-kimchi.jpg" %}
 
 ### Subsection Headings (Optional)
 If you need more structure within a section, use subsection headings (marked with `###`). These are slightly smaller than main section headings and help organize complex topics without breaking up the flow too much.
