@@ -66,7 +66,7 @@ A major part of Seth’s farm is built on relationships rather than large-scale 
 
 He doesn’t rely on traditional marketing or branding. Instead, he has built trust over time by consistently showing up and maintaining personal connections with the people he works with. He even describes himself as the “face” of the farm, meaning that customers often meet him directly and can ask questions about how their food was grown. 
 {% include typography/aside.html class="right" text="
-"Farming provides something tangible; putting a face to who grows your food is comforting."" %}
+Farming provides something tangible; putting a face to who grows your food is comforting." %}
 
 Selling to both markets and restaurants helps engage with customers and the food system as a whole. Seth is passionate about integrating into the whole food system, and as a cook, he understands how each ingredient is used, helping him connect to customers and the chefs he sells to. One valuable collaboration is his production of Napa cabbage for Oni (a restaurant in downtown ABQ) to make kimchi. Using his knowledge of cabbage growing conditions, he worked with this business to make kimchi from a new cabbage variety that is more suitable to the NM climate. 
 {% include images/figure.html class="left" width="60%" caption="Nappa kimchi made in house at Oni from Vida Verde Farm’s Nappa cabbage. [Source](@oni.abq)" image-path="images/napa-kimchi.jpg" %}
