@@ -22,6 +22,9 @@ Seth Matlick grew up in a small apartment in New York City in a food-centered fa
 Even though he was surrounded by food, he didn’t learn to cook until later in life. Once he moved out, he started teaching himself and working in restaurants, beginning as a dishwasher and eventually doing prep work. That’s where his interest in food deepened, even before farming was part of the picture.
 
 What changed everything was when he started traveling after college and found WWOOFing (working on organic farms). He reached out to Los Poblanos Organics in New Mexico, and they replied back the next day and that is where he was introduced to growing food. He describes that first season as eye-opening, like discovering something he didn’t even know he was missing.
+{% include media/audio.html
+  src="audio/first-season.mp3"
+%}
 
 
 ## Your First Section Heading
